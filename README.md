@@ -2,7 +2,7 @@
 
 ##Install 
   
-  sudo cordova plugin add https://github.com/CUGCQH/cordova-plugin-qqsdk.git --variable QQ_APP_ID=xxxxxx
+  sudo cordova plugin add https://github.com/EiyouZk/PhoneGap-QQ-ThirdLogin.git --variable QQ_APP_ID=xxxxxx
   
   
   
