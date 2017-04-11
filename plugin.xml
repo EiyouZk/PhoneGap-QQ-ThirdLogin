@@ -12,8 +12,7 @@
   <repo>https://github.com/EiyouZk/PhoneGap-QQ-ThirdLogin.git</repo>
   <issue>https://github.com/EiyouZk/PhoneGap-QQ-ThirdLogin/issues</issue>
   
-  <!--<preference name="QQ_APP_ID" /> -->
-  
+  <!--<preference name="QQ_APP_ID" /> -->  
   <!--require cordova version -->
   <engines>
     <engine name="cordova" version=">=3.5.0" />
